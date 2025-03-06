@@ -9,7 +9,9 @@
 #wraapper{
     width: 100%;
     min-height: 100vh;
-    background: url(./assets/ground.jpg);
+    background: url(./assets/grounds.jpg);
+    background-size: cover;
+
 }
 
 h1{
